@@ -8,3 +8,5 @@
 - git commit -m "message"
 
 # Änderung 2
+
+git status <!-- - very very helpul  -->
